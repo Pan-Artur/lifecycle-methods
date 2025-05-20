@@ -1,6 +1,7 @@
 {
   "name": "lifecycle-methods",
   "version": "0.1.0",
+  "homepage": "https://pan-artur.github.io/lifecycle-methods",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
